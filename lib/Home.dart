@@ -263,7 +263,6 @@ class _HomeState extends State<Home> {
                             ),
                           ),
                           new SizedBox(height: 15.0,),
-
                           new Text("560USD",
                             style: TextStyle(
                                 fontSize: 22.0,
